@@ -4,7 +4,7 @@ Software engineer in Japan 🇯🇵 — building web apps by day, desktop apps a
 - ⏱️ …and **[kizami](https://github.com/zabuton-app/kizami)** — a tray-resident pomodoro timer with a candy-pop look. Close the popup, the timer keeps running. (Electron + React + TypeScript)
 - 🪑 Both are part of **[zabuton](https://github.com/zabuton-app)**, my desktop app series for Linux, macOS and Windows
 - ✍️ I write about dev stuff at **[amgsk.dev](https://amgsk.dev)**
-- 🐧 Daily driver: Arch Linux
+- 🐧 Daily driver: Arch Linux with Hyprland
 - 🗒️ Knowledge management nerd (Obsidian + automation)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
