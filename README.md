@@ -1,7 +1,7 @@
 Software engineer in Japan 🇯🇵 — building web apps by day, desktop apps and CLI tools by night.
 
 - 🎬 Currently building **[Meguri](https://github.com/zabuton-app/meguri)** — a local-first media library for your videos & photos. No cloud, no account. (Electron + React + TypeScript)
-- ⏱️ …and **[kizami](https://github.com/zabuton-app/kizami)** — a tray-resident pomodoro timer with a candy-pop look. Close the popup, the timer keeps running. (Electron + React + TypeScript)
+- ⏱️ …and **[Kizami](https://github.com/zabuton-app/kizami)** — a tray-resident pomodoro timer with a candy-pop look. Close the popup, the timer keeps running. (Electron + React + TypeScript)
 - 🪑 Both are part of **[zabuton](https://github.com/zabuton-app)**, my desktop app series for Linux, macOS and Windows
 - ✍️ I write about dev stuff at **[amgsk.dev](https://amgsk.dev)**
 - 🐧 Daily driver: Arch Linux with Hyprland
